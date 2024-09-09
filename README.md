@@ -1,5 +1,6 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo ao meu GitHub!
 
+Eu sou o Alex, e está página está em construção. 
 <!--
 **alex-gsone/alex-gsone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
