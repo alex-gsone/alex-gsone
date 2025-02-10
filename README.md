@@ -11,7 +11,7 @@
 
 ### 🔥 Projetos em Destaque
 📌 [Barbershop](https://github.com/alex-gsone/BarberShop?tab=readme-ov-file#barbershop)
-🚀 [API de Carros Antigos](Banco de dados em Java)
+🚀 [Banco de dados em Java](https://github.com/alex-gsone/BancoDeDadosEmJava)
 
 <!--
 **alex-gsone/alex-gsone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
