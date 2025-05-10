@@ -1,6 +1,7 @@
 # Olá! 👋 Bem-vindo ao meu GitHub!
 
 ## Eu sou o Alex! 
+**Me siga no X: https://github.com/alex-gsone
 
 🎓 Estudante de Ciência da Computação  
 💻 Desenvolvedor Full Stack | Java | Python | JavaScript  
