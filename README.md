@@ -21,7 +21,7 @@ Estudando...
 ![image](https://github.com/user-attachments/assets/2ba5ad39-5aa5-4e00-9c3a-4f7ff216f4ef)
 
 # Curso finalizado: 
-![image](https://github.com/user-attachments/assets/76e5d517-ca28-40a6-9d12-24e95da94c5b)
+
 
 https://www.credly.com/badges/dc657949-403a-4ecb-a964-2ac5f84a54bb/public_url
 
