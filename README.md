@@ -21,6 +21,7 @@ Estudando...
 ![image](https://github.com/user-attachments/assets/2ba5ad39-5aa5-4e00-9c3a-4f7ff216f4ef)
 
 # Curso finalizado: 
+![introduction-to-cybersecurity](https://github.com/user-attachments/assets/6dc11e02-c827-4d70-aa47-195262c70edc)
 
 
 https://www.credly.com/badges/dc657949-403a-4ecb-a964-2ac5f84a54bb/public_url
